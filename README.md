@@ -6,8 +6,7 @@
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
-tesuto
+-dddd
 -
 -
 -
