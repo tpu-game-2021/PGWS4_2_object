@@ -2,8 +2,11 @@
 物体に適応するシェーダを変更します。
 オブジェクトの入力データである法線ベクトルを使った効果を実装します。
 
-![結果画像](result.png)
-![シェーダグラフ](node_graph.png)
+![結果画像](result1.png)
+           (result2.png)
+           (result3.png)
+           (result4.png)
+![シェーダグラフ](NodeGraph.png)
 
 # 自分なりに変更した点
 -
