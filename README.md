@@ -2,9 +2,9 @@
 物体に適応するシェーダを変更します。
 オブジェクトの入力データである法線ベクトルを使った効果を実装します。
 
-![result1](https://user-images.githubusercontent.com/55951546/134485120-7771d7ed-1f42-4c32-8314-2921ee4531b5.png)
-![result2](https://user-images.githubusercontent.com/55951546/134485132-1c81ba5c-70fb-4c89-8586-d33e32bee23f.png)
-![graph](https://user-images.githubusercontent.com/55951546/134485146-3aab2dbc-a19c-45f0-aa11-ba4d9c2826e0.png)
+![result1](https://user-images.githubusercontent.com/55951546/134485811-1e8f0d87-5ee3-46b9-9727-4f246ce078c4.png)
+![result2](https://user-images.githubusercontent.com/55951546/134485825-386a066a-5214-4e08-83ee-88e67b372b6d.png)
+![graph](https://user-images.githubusercontent.com/55951546/134485836-c55a53cf-b72f-4e1c-838e-826392bc1fb3.png)
 
 # 自分なりに変更した点
 -ベースの色を変えた
