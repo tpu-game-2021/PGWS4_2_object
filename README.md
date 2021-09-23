@@ -2,13 +2,13 @@
 物体に適応するシェーダを変更します。
 オブジェクトの入力データである法線ベクトルを使った効果を実装します。
 
-![result1](https://user-images.githubusercontent.com/55951546/134485811-1e8f0d87-5ee3-46b9-9727-4f246ce078c4.png)
-![result2](https://user-images.githubusercontent.com/55951546/134485825-386a066a-5214-4e08-83ee-88e67b372b6d.png)
-![graph](https://user-images.githubusercontent.com/55951546/134485836-c55a53cf-b72f-4e1c-838e-826392bc1fb3.png)
+![image](https://user-images.githubusercontent.com/55951546/134488728-af8af311-6d70-4fef-8f0a-84b89d56f4db.png)
+![image](https://user-images.githubusercontent.com/55951546/134488837-932696cf-2faf-4d5d-972a-0f49beecc0bc.png)
+![image](https://user-images.githubusercontent.com/55951546/134489045-c1f8615e-de90-422a-aa96-f3f817008b75.png)
 
 # 自分なりに変更した点
--ベースの色を変えた
--ベースの色が点滅をするようにした
+-リムライトを消したり光らせたりした
+-
 -
 
 # 進め方
