@@ -6,8 +6,8 @@
 ![シェーダグラフ](node_graph.png)
 
 # 自分なりに変更した点
--
--
+-Timeノードの追加
+-Specular Colorの変更
 -
 
 # 進め方
